@@ -11,3 +11,6 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.3
 URL: https://github.com/Darlan-Andrade/Hipotenusa
 BugReports: https://github.com/Darlan-Andrade/Hipotenusa/issues
+Depends: 
+    R (>= 2.10)
+LazyData: true
